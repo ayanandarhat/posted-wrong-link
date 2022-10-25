@@ -1,0 +1,36 @@
+#mario1
+{
+font-family:sans-serif;
+font-size: medium;
+font-weight: bolder;
+}
+#mario2
+{
+font-size: larger;
+font-weight: lighter;
+font-style: italic;
+font-family: Arial;
+}
+#camera
+{
+width: 500px;
+height: 400px;
+border-color: crimson;
+}
+#mario3
+{
+border-color: aquamarine;
+inline-size: auto;
+padding: 50%;
+}
+#mario4{
+inline-size: auto;
+padding: 50%;
+    border-color:hotpink;
+}
+
+#mario5{
+    border-color: olivedrab;
+    inline-size: auto;
+padding: 50%;
+}
